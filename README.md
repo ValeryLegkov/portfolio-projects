@@ -1,2 +1,2 @@
-# beginProjects
-all my projects during the study period
+# Projects
+All projects for portfolio
